@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 3px;
   padding-left: 10px;
-  border-left: 4px solid black;
+  border-left: 4px solid #dfc25e;
 }
 #header .logo a {
   color: #fff;
@@ -1826,7 +1826,7 @@ section {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
-  border-left: 4px solid black;
+  border-left: 4px solid #dfc25e;
 }
 #footer .footer-top .footer-info p {
   font-size: 14px;
@@ -1854,7 +1854,7 @@ section {
   font-size: 16px;
 }
 #footer .footer-top .social-links a:hover {
-  background: black;
+  background: #dfc25e;
   color: #fff;
 }
 #footer .footer-top h4 {
@@ -1877,7 +1877,7 @@ section {
   background: #555;
 }
 #footer .footer-top h4::after {
-  background: black;
+  background: #dfc25e;
   width: 60px;
 }
 #footer .footer-top .footer-links {
@@ -1903,7 +1903,7 @@ section {
   color: #eee;
 }
 #footer .footer-top .footer-links ul a:hover {
-  color: black;
+  color: #dfc25e;
 }
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
@@ -1920,7 +1920,7 @@ section {
   width: 65%;
 }
 #footer .footer-top .footer-newsletter input[type=submit] {
-  background: black;
+  background: #dfc25e;
   border: 0;
   width: 35%;
   padding: 6px 0;
@@ -1930,7 +1930,7 @@ section {
   cursor: pointer;
 }
 #footer .footer-top .footer-newsletter input[type=submit]:hover {
-  background: #13a456;
+  background: #dfc25e;
 }
 #footer .copyright {
   text-align: center;

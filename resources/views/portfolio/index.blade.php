@@ -4,9 +4,11 @@
 
         <header class="section-header">
             <h3 class="section-title">Our Portfolio</h3>
+            <img class="img-fluid" src="{{ asset('assets/img/undercons.png') }}" alt="">
+            <p class="mt-4"> Sorry, Portfolio is under maintenance, will update soon!</p>
         </header>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100"">
+        {{-- <div class="row" data-aos="fade-up" data-aos-delay="100"">
         <div class="   col-lg-12">
             <ul id="portfolio-flters">
                 <li data-filter="*" class="filter-active">All</li>
@@ -14,10 +16,12 @@
                 <li data-filter=".filter-card">Card</li>
                 <li data-filter=".filter-web">Web</li>
             </ul>
-        </div>
+        </div> --}}
     </div>
 
     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+    </div>
+    {{-- <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
@@ -172,7 +176,7 @@
             </div>
         </div>
 
-    </div>
+    </div> --}}
 
     </div>
 </section><!-- End Portfolio Section -->

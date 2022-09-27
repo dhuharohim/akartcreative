@@ -68,7 +68,7 @@
                     <div class="member-info">
                         <div class="member-info-content">
                             <h4>Reyvaldo Fradhita Hetaria</h4>
-                            <span>Manager Operation</span>
+                            <span>Public Relation</span>
                             <div class="social">
                                 <a href="https://wa.me/+6289501957545" target="__blank"><i
                                         class="bi bi-whatsapp"></i></a>
@@ -91,6 +91,23 @@
                                 <a href="https://wa.me/+6285156263395" target="__blank"><i
                                         class="bi bi-whatsapp"></i></a>
                                 <a href="https://www.instagram.com/_aizton/" target="__blank"><i
+                                        class="bi bi-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                    <img src="{{ asset('assets/img/mahfud-foto.png') }}" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>Ahmad Ali Mahfud</h4>
+                            <span>Manager Operation</span>
+                            <div class="social">
+                                <a href="https://wa.me/+6282237442704" target="__blank"><i
+                                        class="bi bi-whatsapp"></i></a>
+                                <a href="https://www.instagram.com/tamputttt/" target="__blank"><i
                                         class="bi bi-instagram"></i></a>
                             </div>
                         </div>

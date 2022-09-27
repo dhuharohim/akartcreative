@@ -65,7 +65,7 @@
                     </div>
                     <div class="col-12 text-center social mt-4">
                         <a href="https://www.instagram.com/akart.pictures/" target="__blank" class="hover-target">instagram</a>
-                        <a href="https://wa.me/+6285816326997" class="hover-target">whatsapp(dani)</a>
+                        <a href="https://wa.me/+6289681755757" class="hover-target">whatsapp(halil)</a>
                     </div>
                 </div>
             </div>

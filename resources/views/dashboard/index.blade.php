@@ -12,7 +12,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">{{ __('Creative Production Company') }}</h2>
                 <p class="animate__animated animate__fadeInUp">
-                    Content Creator | Videographer | Music Producer | Music Video
+                    Content Creator | Advertising Agency | Film Production
                 </p>
                 <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">{{ __('About Us') }}</a>
               </div>

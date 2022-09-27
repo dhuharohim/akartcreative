@@ -51,16 +51,9 @@
                         <ul>
                             <li><a class="nav-link scrollto active" href="#hero">{{ __('Home') }}</a></li>
                             <li><a class="nav-link scrollto" href="#about">{{ __('About') }}</a></li>
-                            <li class="dropdown"><a href="#services"><span>{{ __('Services') }}</span> <i
-                                        class="bi bi-chevron-down"></i></a>
-                                <ul>
-                                    <li><a href="#">{{ __('Akart Pictures') }}</a></li>
-                                    <li><a href="#">{{ __('Akart Records') }}</a></li>
-                                </ul>
-                            </li>
+                            <li><a class="nav-link scrollto" href="#services">{{ __('Services') }}</a></li>
                             <li><a class="nav-link scrollto " href="#portfolio">{{ __('Portfolio') }}</a></li>
                             <li><a class="nav-link scrollto" href="#team">{{ __('Team') }}</a></li>
-                            <li><a class="nav-link  " href="blog.html">{{ __('Blog') }}</a></li>
                             <li><a class="nav-link scrollto" href="#contact">{{ __('Contact') }}</a></li>
                         </ul>
                         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -101,7 +94,10 @@
 
                     <div class="col-lg-4 col-md-6 footer-info">
                         <h3>Akart <br>Creative</h3>
-                        <p>Akart Creative merupakan</p>
+                        <p style="text-align: justify;
+                        text-justify: inter-word;">Akart Creative merupakan rumah produksi yang berfokus dalam dunia entertainment khususnya
+                            pada produksi ide audio dan visual, Bergerak untuk membangun ekosistem dalam industri
+                            kreatif di daerah kami yang terletak di Bojonegoro, Jawa Timur.</p>
                     </div>
 
                     <div class="col-lg-4 col-md-6 footer-links">
@@ -121,13 +117,13 @@
                             Jl.Panglima Polim Perumda Blok ML-5 <br>
                             Bojonegoro, Jawa Timur 62115<br>
                             Indonesia <br>
-                            <strong>Phone:</strong> +62 8968 1755 757<br>
+                            <strong>Phone:</strong> +62 8968 1755 757 (Halil)<br>
                             <strong>Email:</strong> akart.creative@gmail.com<br>
                         </p>
 
                         <div class="social-links">
-                            <a href="https://www.instagram.com/akart.creative" class="instagram"
-                                target="__blank"><i class="bi bi-instagram"></i></a>
+                            <a href="https://www.instagram.com/akart.creative" class="instagram" target="__blank"><i
+                                    class="bi bi-instagram"></i></a>
                             <a href="https://www.youtube.com/channel/UCzNSR2dSJhO6ayfopebCBgA" target="__blank"><i
                                     class="bi bi-youtube"></i></a>
                         </div>
